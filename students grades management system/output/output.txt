@@ -1,0 +1,8 @@
+enter 1 to : Add student and his grades 
+enter 2 to : remove student 
+enter 3 to : know the first student 
+enter 4 to : know the highest grade 
+enter 5 to : know the lowest grade 
+enter 6 to : know the student who has the highest grade 
+enter 7 to : know the student who has the lowest grade 
+enter 8 to : know the students info 
